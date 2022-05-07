@@ -1,2 +1,8 @@
 what a fuck
 I just do it
+
+常用指令
+ssh -T git@github.com
+git add .
+git commit -m "update"
+git push -u origin main
